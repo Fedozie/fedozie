@@ -7,7 +7,6 @@ You can reach me via [twitter](https://twitter.com/fynnbarr) and [mail](mailto:p
 I am open to learning more, to being mentored and also, open to entry-level frontend developer roles. I am open to collaborating in any  projects I can.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedozie&theme=synthwave)](https://github.com/fedozie/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedozie&layout=compact&theme=synthwave)](https://github.com/Fedozie/github-readme-stats)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/1085513a-b7b4-4ff8-9f1d-ee14881805b1.svg)](https://wakatime.com/@1085513a-b7b4-4ff8-9f1d-ee14881805b1) -->
