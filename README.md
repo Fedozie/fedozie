@@ -17,8 +17,8 @@ Apart from coding, I like to think I am interesting person in real life 😁. I 
 <hr/>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fedozie&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fedozie&layout=compact&hide_border=true&theme=gotham&bg_color=00000000"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=fedozie&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fedozie&layout=compact&hide_border=false&theme=gotham&bg_color=00000000"/>
 </p>
 
 
