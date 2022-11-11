@@ -1,7 +1,7 @@
 <h2> Hello there 👋🏾, I am Edozie Onyeanusi. </h2>
 
 <p>
-I am a frontend developer and a technical writer. I'm currently building with React JS, learning more about other Web Technologies, API Documentation and more about Javascript. I frequently publish articles on the little things I have come to know on my <a href = "https://fynnbarr.hashnode.dev/">hashnode blog</a>.
+I am a frontend developer and a technical writer, but I am human first. I'm currently building with React JS, learning more about other Web Technologies, API Documentation and more about Javascript. I frequently publish articles on the little things I have come to know on my <a href = "https://fynnbarr.hashnode.dev/">hashnode blog</a>.
 </p>
 
 <p>
