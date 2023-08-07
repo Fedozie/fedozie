@@ -7,7 +7,7 @@ I am currently building with Next JS, and React JS with Typescript. I am adept a
 </p>
 
 <p>
-I am open to learning more, to being mentored and especially, open to entry-level frontend developer roles. I am also open to collaborating on any  projects I can.
+I am open to entry-level front-end developer roles, to learning more and to being mentored. I am also available to collaborate on any projects.
 </p>
 
 <p>You can reach me via <a href = "https://twitter.com/fynnbarr"> twitter</a> and <a href = "mailto:pyhnnedo@gmail.com">mail</a>.</p>
