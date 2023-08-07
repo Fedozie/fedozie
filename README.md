@@ -1,5 +1,11 @@
 <h2>Hello there 👋🏾, I am Edozie Onyeanusi.</h2>
 
+[![wakatime](https://wakatime.com/badge/user/1085513a-b7b4-4ff8-9f1d-ee14881805b1.svg)](https://wakatime.com/@1085513a-b7b4-4ff8-9f1d-ee14881805b1) 
+<a href = "https://fynnbarr.hashnode.dev/">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> 
+</a>
+
+
 <p>
 I am a creative and self-starting Front-End Developer with flexible, reliable and excellent timekeeping skills and a keen eye for turning designs into dynamic and responsive web apps. I look forward to working in a highly collaborative environment with the aim of meeting the firm’s objectives while improving my technical skills.
 
@@ -24,4 +30,4 @@ Apart from coding, I like to think I am an interesting person in real life 😁.
 </p>
 
 
-<!-- [![wakatime](https://wakatime.com/badge/user/1085513a-b7b4-4ff8-9f1d-ee14881805b1.svg)](https://wakatime.com/@1085513a-b7b4-4ff8-9f1d-ee14881805b1) -->
+
