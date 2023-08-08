@@ -1,6 +1,7 @@
 <h2>Hello there 👋🏾, I am Edozie Onyeanusi.</h2>
 
-[![wakatime](https://wakatime.com/badge/user/1085513a-b7b4-4ff8-9f1d-ee14881805b1.svg)](https://wakatime.com/@1085513a-b7b4-4ff8-9f1d-ee14881805b1) 
+<!--[![wakatime](https://wakatime.com/badge/user/1085513a-b7b4-4ff8-9f1d-ee14881805b1.svg)](https://wakatime.com/@1085513a-b7b4-4ff8-9f1d-ee14881805b1?style=flat-square) -->
+![](https://edozie.deno.dev/api/badge?style=flat-square)
 <a href = "https://fynnbarr.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> 
 </a>
