@@ -1,6 +1,6 @@
 <h2>Hello there 👋🏾, I am Edozie Onyeanusi.</h2>
 
-![](https://edozie.deno.dev/api/badge?style=flat-square)
+![](https://edozie.deno.dev/api/badge?style=for-the-badge&color=blueviolet)
 <a href = "https://fynnbarr.hashnode.dev/">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> 
 </a>
