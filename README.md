@@ -1,3 +1,6 @@
+<a href=null><img src="https://komarev.com/ghpvc/?username=fedozie&color=8a2be2" align=right></a>
+
+
 <h2>Hello there 👋🏾, I am Edozie Onyeanusi.</h2>
 
 ![](https://edozie.deno.dev/api/badge?style=for-the-badge&color=blueviolet)
