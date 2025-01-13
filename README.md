@@ -22,7 +22,7 @@ I am open to front-end developer roles and collaborations, learning more, and be
 <p>You can reach me via <a href = "https://twitter.com/fynnbarr"> twitter</a> and <a href = "mailto:pyhnnedo@gmail.com">mail</a>.</p>
 
 <p>
-Apart from coding, I like to think I am an exciting person in real life 😁. I am super into sports, athleticism and movies. I like to travel, sightsee, and learn about people, their languages, and their cultures. I like to try out new cooking recipes and I love Football Club Barcélona with my whole heart.
+Apart from coding, I like to think I am an exciting person in real life, at least by my own internal scorecard 😁. I am super into sports, athleticism and movies. I like to travel and sightsee. I also like to learn about people, their languages, politics, history and cultures. I kind of like cooking and also trying out new cooking recipes and I love Football Club Barcélona with my whole heart.
 </p>
 
 <hr/>
